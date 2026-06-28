@@ -1,0 +1,7 @@
+dist
+node_modules
+.claude
+*.log
+.temp
+*.tmp
+.mpe-html
